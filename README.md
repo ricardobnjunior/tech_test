@@ -20,3 +20,6 @@ pip install jupyter
 pip install -r requirements.txt
 
 ```
+
+* Open the code folder.
+* Execute the .ipynb source code file.
